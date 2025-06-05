@@ -37,6 +37,11 @@ app.use('/uploads', express.static(path.join(__dirname, 'uploads'),
     }
 ));
 
+app.get('/',(req, res)=>{
+    console.log('Hello from backend !!');
+    res.send('Hello from backend !!');
+})
+
 // start server
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`server running at port: ${PORT}`));
