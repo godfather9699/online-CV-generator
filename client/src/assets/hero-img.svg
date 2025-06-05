@@ -1,0 +1,238 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="553" height="491" fill="none">
+  <mask xmlns="http://www.w3.org/2000/svg" id="mask0_1_392" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="553" height="491">
+    <path fill="#D9D9D9" d="M0 0h553v491H0z" />
+  </mask>
+  <defs>
+    <mask id="a" x="43.39" y="77.62" width="48.11" height="43.89" maskUnits="userSpaceOnUse">
+      <circle class="a" cx="68" cy="98.4" r="20" />
+    </mask>
+    <mask id="b" x="687.61" y="144.45" width="91.35" height="93.13" maskUnits="userSpaceOnUse">
+      <circle class="a" cx="734.5" cy="194.9" r="39.5" />
+    </mask>
+    <style>
+      .a {
+        fill: #fff
+      }
+
+      .h2,
+      .p2 {
+        font-size: 9px;
+        fill: #333;
+        ____fill: red
+      }
+
+      .h2 {
+        font-size: 10px;
+        fill: #000;
+        font-weight: 800
+      }
+
+      .li-disc {
+        fill: #333;
+        ____fill: red
+      }
+    </style>
+  </defs>
+  <g filter="url(#filter0_d_1_392)" xmlns="http://www.w3.org/2000/svg" mask="url(#mask0_1_392)">
+    <path xmlns="http://www.w3.org/2000/svg" stroke="#fff" stroke-width="8.686" stroke-linejoin="round" shape-rendering="crispEdges" d="M84.313 67.263h413.03v532.473H84.313z" />
+    <rect xmlns="http://www.w3.org/2000/svg" class="a" x="88" y="70" width="410" height="525" rx="4" ry="4" />
+    <g transform="translate(138 90)" style="transform: scale(0.62);transform-origin: 221px 138px;">     
+      <text x="58%" y="87" text-anchor="middle" class="h1-del11">
+        <tspan style="font-family:'Times New Roman','arial';font-size:36px;font-weight:300;fill:#000"> STELLA WALKER </tspan>
+      </text>
+      <path style="stroke:#979797;stroke-width:2" d="M0 120h650" />
+      <text x="58%" y="135" text-anchor="middle" style="color:#000;font-family:'Times New Roman','arial';font-size:10px;letter-spacing:.45px;" fill="#000">
+        <tspan>(781) 669-5989, jwalker@live.com, 24 Armor Lane, North Easton</tspan>
+      </text>
+      <path style="stroke:#979797;stroke-width:2" d="M0 145h650" />
+      <text x="60" y="180" class="h2 h2-del11">SKILLS</text>
+      <circle cx="63" cy="197" r="1.5" class="li-disc" />
+      <circle cx="63" cy="212" r="1.5" class="li-disc" />
+      <circle cx="63" cy="227" r="1.5" class="li-disc" />
+      <circle cx="63" cy="242" r="1.5" class="li-disc" />
+      <circle cx="63" cy="257" r="1.5" class="li-disc" />
+      <circle cx="63" cy="272" r="1.5" class="li-disc" />
+      <circle cx="63" cy="287" r="1.5" class="li-disc" />
+      <circle cx="63" cy="302" r="1.5" class="li-disc" />
+      <text class="p2">
+        <tspan x="68" y="200">Executive team leadership</tspan>
+        <tspan x="68" dy="15">Inventory report generation</tspan>
+        <tspan x="68" dy="15">Client/Vendor relations</tspan>
+        <tspan x="68" dy="15">Market analysis</tspan>
+        <tspan x="68" dy="15">Sales management</tspan>
+        <tspan x="68" dy="15">Staff training</tspan>
+        <tspan x="68" dy="15">Customer relations</tspan>
+        <tspan x="68" dy="15">Process Improvements</tspan>
+      </text>
+      <text x="220" y="180" class="h2 h2-del11">PROFESSIONAL SUMMARY</text>
+      <text class="p2">
+        <tspan x="220" y="200">Successful sales professional with 10+ years experience in large-scale food and retail</tspan>
+        <tspan x="220" dy="15">environments. Implement cost control measures to ensure operations remain within</tspan>
+        <tspan x="220" dy="15">company targets. Maximize bottom-line performance through PL, merchandising, staff</tspan>
+        <tspan x="220" dy="15">management, loss control and inventory management.</tspan>
+      </text>
+      <text x="220" y="275" class="h2 h2-del11">EXPERIENCE</text>
+      <text x="220" y="295" class="p2" style="color:#333;font-weight:700">District Manager, August 2011 - Current</text>
+      <text x="220" y="310" class="p2" style="color:#333">Verizon Wireless | San Francisco, CA</text>
+      <circle cx="222" cy="325" r="1.5" class="li-disc" />
+      <circle cx="222" cy="340" r="1.5" class="li-disc" />
+      <circle cx="222" cy="355" r="1.5" class="li-disc" />
+      <circle cx="222" cy="370" r="1.5" class="li-disc" />
+      <text class="p2">
+        <tspan x="227" y="328">Directed recruitment/training/staff development initiatives.</tspan>
+        <tspan x="227" dy="15">Compute taxes owed and prepare tax returns, ensuring compliance with reporting.</tspan>
+        <tspan x="227" dy="15">Administered daily operations to ensure policies were adhered to by sales staff.</tspan>
+        <tspan x="227" dy="15">Cultivated strong business relationships with customers to drive business.</tspan>
+      </text>
+      <text x="220" y="400" class="p2" style="color:#333;font-weight:700">District Manager, August 2011 - Current</text>
+      <text x="220" y="415" class="p2" style="color:#333">Verizon Wireless | San Francisco, CA</text>
+      <circle cx="222" cy="430" r="1.5" class="li-disc" />
+      <circle cx="222" cy="445" r="1.5" class="li-disc" />
+      <circle cx="222" cy="460" r="1.5" class="li-disc" />
+      <circle cx="222" cy="475" r="1.5" class="li-disc" />
+      <text class="p2">
+        <tspan x="227" y="433">Directed recruitment/training/staff development initiatives.</tspan>
+        <tspan x="227" dy="15">Compute taxes owed and prepare tax returns, ensuring compliance with reporting.</tspan>
+        <tspan x="227" dy="15">Administered daily operations to ensure policies were adhered to by sales staff.</tspan>
+        <tspan x="227" dy="15">Cultivated strong business relationships with customers to drive business.</tspan>
+      </text>
+      <text x="220" y="510" class="p2" style="color:#333;font-weight:700">District Manager, August 2011 - Current</text>
+      <text x="220" y="525" class="p2" style="color:#333">Verizon Wireless | San Francisco, CA</text>
+      <circle cx="222" cy="540" r="1.5" class="li-disc" />
+      <circle cx="222" cy="555" r="1.5" class="li-disc" />
+      <circle cx="222" cy="570" r="1.5" class="li-disc" />
+      <circle cx="222" cy="585" r="1.5" class="li-disc" />
+      <text class="p2">
+        <tspan x="227" y="543">Directed recruitment/training/staff development initiatives.</tspan>
+        <tspan x="227" dy="15">Compute taxes owed and prepare tax returns, ensuring compliance with reporting.</tspan>
+        <tspan x="227" dy="15">Administered daily operations to ensure policies were adhered to by sales staff.</tspan>
+        <tspan x="227" dy="15">Cultivated strong business relationships with customers to drive business.</tspan>
+      </text>
+      <text x="220" y="620" class="p2" style="color:#333;font-weight:700">District Manager, August 2011 - Current</text>
+      <text x="220" y="635" class="p2" style="color:#333">Verizon Wireless | San Francisco, CA</text>
+      <circle cx="222" cy="650" r="1.5" class="li-disc" />
+      <circle cx="222" cy="665" r="1.5" class="li-disc" />
+      <circle cx="222" cy="680" r="1.5" class="li-disc" />
+      <circle cx="222" cy="695" r="1.5" class="li-disc" />
+      <text class="p2">
+        <tspan x="227" y="653">Directed recruitment/training/staff development initiatives.</tspan>
+        <tspan x="227" dy="15">Compute taxes owed and prepare tax returns, ensuring compliance with reporting.</tspan>
+        <tspan x="227" dy="15">Administered daily operations to ensure policies were adhered to by sales staff.</tspan>
+        <tspan x="227" dy="15">Cultivated strong business relationships with customers to drive business.</tspan>
+      </text>
+      <text x="220" y="735" class="h2 h2-del11">EDUCATION</text>
+      <text class="p2">
+        <tspan x="220" y="753" style="font-weight:700">Bachelor of Arts: Operational Managements</tspan>
+        <tspan x="220" y="768">San Francisco State University, San Francisco, CA, August 2011</tspan>
+      </text>
+      <text class="p2">
+        <tspan x="220" y="793" style="font-weight:700">Bachelor of Arts: Operational Managements</tspan>
+        <tspan x="220" y="808">San Francisco State University, San Francisco, CA, August 2011</tspan>
+      </text>
+      <text class="p2">
+        <tspan x="220" y="833" style="font-weight:700">Bachelor of Arts: Operational Managements</tspan>
+        <tspan x="220" y="848">San Francisco State University, San Francisco, CA, August 2011</tspan>
+      </text>
+    </g>
+  </g>
+  <g filter="url(#filter1_d_1_392)">
+    <rect x="487" y="90" width="40.617" height="200.645" rx="5.743" fill="#000" />
+    <path d="M507.113 124.93h1.625l-1.787 8.123h-1.625l1.787-8.123Zm1.365-3.249a.806.806 0 0 0-.75.501.813.813 0 0 0 .592 1.108.814.814 0 0 0 .732-1.371.809.809 0 0 0-.574-.238ZM512.995 153.362v1.624h-11.373v-1.624h11.373Zm-2.437-5.512a3.248 3.248 0 0 1-1.59 2.634 3.255 3.255 0 0 1-3.073.128 3.044 3.044 0 0 1-1.836-2.868v-6.563h-1.625v6.669a4.881 4.881 0 0 0 2.13 3.855 4.868 4.868 0 0 0 4.369.564 4.751 4.751 0 0 0 3.249-4.59v-6.498h-1.624v6.669Zm0-6.673h1.624-1.624Zm-6.499 0h-1.625 1.625Z" fill="#fff" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M497.56 164.734h19.496v.813H497.56v-.813ZM497.56 196.821h19.496v.813H497.56v-.813ZM497.56 249.217h19.496v.812H497.56v-.812Z" fill="#C7D8E0" fill-opacity=".3" />
+    <path d="M504.059 176.513h10.56M504.059 181.387h10.56M504.059 186.261h10.56M499.998 176.513h.008M499.998 181.387h.008M499.998 186.261h.008" stroke="#fff" stroke-width="1.625" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M506.009 211.362c-1.381.244-2.6.731-3.737 1.625l-2.274-2.356v5.686h5.686l-2.193-2.193a6.738 6.738 0 0 1 9.341 1.543c.163.244.325.407.407.65l1.462-.731c-1.787-3.087-5.199-4.793-8.692-4.224Z" fill="#fff" />
+    <path d="M510.233 230.858c1.38.244 2.599.731 3.736 1.625l2.275-2.356v5.686h-5.687l2.194-2.193a6.56 6.56 0 0 0-9.261 1.543c-.162.244-.325.406-.406.65l-1.462-.731c1.706-3.087 5.118-4.793 8.611-4.224Z" fill="#fff" opacity=".25" />
+    <path d="M514.461 270.134a.605.605 0 0 0-.863-.025l-4.646 4.467-2.233-2.208a.556.556 0 0 0-.838 0 .556.556 0 0 0 0 .838l2.64 2.64a.504.504 0 0 0 .406.177c.152 0 .305-.05.432-.152l5.077-4.874a.605.605 0 0 0 .025-.863Zm-7.336-.609h2.335a1.944 1.944 0 0 0 1.929-1.929 1.9 1.9 0 0 0-.787-1.524c.229-.304.381-.685.381-1.117 0-1.04-.888-1.929-1.929-1.929h-1.929a.601.601 0 0 0-.61.609v5.281c0 .355.254.609.61.609Zm.609-5.28h1.32c.381 0 .711.33.711.71a.71.71 0 0 1-.711.711h-1.32v-1.421Zm0 2.64h1.726c.381 0 .711.33.711.711 0 .406-.33.71-.711.71h-1.726v-1.421Zm-2.082 1.802-2.234-5.28c-.203-.457-.939-.457-1.142 0l-2.234 5.28c-.127.305.026.66.33.812.305.127.66-.025.813-.33l.253-.66h2.818l.254.66c.102.229.33.356.558.356.102 0 .178 0 .254-.026.305-.152.457-.507.33-.812Zm-3.681-1.396.889-2.082.863 2.082h-1.752ZM509.948 107.709a2.989 2.989 0 0 0 1.422-2.275 3.212 3.212 0 0 0-.221-1.226 3.209 3.209 0 0 0-1.697-1.758 3.174 3.174 0 0 0-1.218-.265h-5.272v11.372h5.687a3.043 3.043 0 0 0 2.138-.912 3.03 3.03 0 0 0 .867-2.158v-.098a2.96 2.96 0 0 0-1.706-2.68Zm-5.361-3.899h3.412a1.696 1.696 0 0 1 1.624 1.056c.133.428.09.892-.119 1.289a1.693 1.693 0 0 1-.994.831 1.84 1.84 0 0 1-.511.073h-3.412v-3.249Zm3.737 8.123h-3.737v-3.249h3.737a1.69 1.69 0 0 1 1.624 1.056 1.696 1.696 0 0 1-1.113 2.12 1.84 1.84 0 0 1-.511.073Z" fill="#fff" />
+  </g>
+  <g filter="url(#filter2_d_1_392)">
+    <g clip-path="url(#clip0_1_392)">
+      <rect x="514" y="28" width="46" height="200" rx="5.743" transform="rotate(90 514 28)" fill="#fff" />
+      <g clip-path="url(#clip1_1_392)">
+        <rect x="476.615" y="35" width="30.769" height="32" rx="4" fill="#F8E0CE" />
+        <path d="M498.5 44.667c.812 0 1.5.687 1.5 1.5v9a1.5 1.5 0 0 1-1.5 1.5h-13a1.48 1.48 0 0 1-1.5-1.5v-9a1.5 1.5 0 0 1 1.5-1.5h13Zm0 1.5h-13v1.28c.688.595 1.812 1.47 4.188 3.345.531.406 1.562 1.406 2.312 1.375.719.03 1.75-.97 2.281-1.375 2.375-1.875 3.5-2.75 4.219-3.344v-1.281Zm-13 9h13v-5.782c-.719.563-1.75 1.375-3.281 2.594-.719.531-1.907 1.719-3.219 1.688-1.344.03-2.562-1.157-3.25-1.688-1.531-1.219-2.562-2.031-3.25-2.594v5.782Z" fill="#F16900" />
+      </g>
+      <g clip-path="url(#clip2_1_392)">
+        <rect x="437.615" y="35" width="30.769" height="32" rx="4" fill="#B9C4FF" />
+        <path d="M458.531 45.73c.281.28.469.687.469 1.062v10.375a1.5 1.5 0 0 1-1.5 1.5h-9a1.48 1.48 0 0 1-1.5-1.5v-13a1.5 1.5 0 0 1 1.5-1.5h6.375c.375 0 .781.156 1.063.437l2.593 2.625Zm-1.156.937L455 44.292v2.375h2.375Zm-8.875 10.5h9v-9h-3.25a.722.722 0 0 1-.75-.75v-3.25h-5v13Zm6.875-6.5h.469c.25 0 .437.25.375.468-.125.532-.438 1.688-1.063 4.25a.392.392 0 0 1-.375.282H454a.367.367 0 0 1-.344-.282c-.187-.656-.562-2.218-.562-2.218l-.094-.563-.094.563-.562 2.218c-.032.188-.188.282-.375.282h-.781a.394.394 0 0 1-.376-.282c-.187-.812-.781-3.218-1.031-4.25-.062-.218.125-.468.375-.468h.532c.187 0 .312.125.374.312.157.813.563 2.938.594 3.094v.125c.032-.219.032-.125.782-3.219a.37.37 0 0 1 .374-.312h.407c.187 0 .312.125.375.312.75 3.094.687 2.938.718 3.094a.232.232 0 0 1 .032.125c.031-.25 0-.156.656-3.219a.371.371 0 0 1 .375-.312Z" fill="#1C43A7" />
+      </g>
+      <g clip-path="url(#clip3_1_392)">
+        <rect x="398.615" y="35" width="30.769" height="32" rx="4" fill="#FCC" />
+        <path d="M419.531 45.73c.281.28.469.687.469 1.062v10.375a1.5 1.5 0 0 1-1.5 1.5h-9a1.48 1.48 0 0 1-1.5-1.5v-13a1.5 1.5 0 0 1 1.5-1.5h6.375c.375 0 .781.156 1.063.437l2.593 2.625Zm-1.156.937L416 44.292v2.375h2.375Zm-8.875 10.5h9v-9h-3.25a.722.722 0 0 1-.75-.75v-3.25h-5v13Zm7.812-4.47c.313.313.25 1.188-.562 1.188-.469 0-1.156-.187-1.75-.53-.656.124-1.438.405-2.125.655-1.563 2.688-2.469 1.47-2.375.97.125-.626.969-1.126 1.594-1.438.312-.594.781-1.594 1.094-2.344-.219-.875-.344-1.594-.219-2.094.156-.562 1.219-.625 1.343.188.157.468-.062 1.25-.156 1.75.25.656.594 1.125 1.125 1.437.563-.062 1.657-.156 2.031.219Zm-6.187 2.438s.344-.156.937-1.093c-.187.156-.781.656-.937 1.093Zm2.531-5.968c-.062 0-.062.843.063 1.28.156-.28.187-1.28-.063-1.28Zm-.75 4.28c.5-.218 1.063-.468 1.719-.624-.375-.25-.687-.625-.937-1.094-.219.563-.469 1.188-.782 1.719Zm4.094-.155c.125-.094-.062-.344-1.156-.25 1 .437 1.156.25 1.156.25Z" fill="#AD2A2A" />
+      </g>
+      <g clip-path="url(#clip4_1_392)">
+        <rect x="359.615" y="35" width="30.769" height="32" rx="4" fill="#D6F0E8" />
+        <path d="M382.5 51.667c.812 0 1.5.687 1.5 1.5v4a1.5 1.5 0 0 1-1.5 1.5h-15a1.48 1.48 0 0 1-1.5-1.5v-4a1.5 1.5 0 0 1 1.5-1.5h2.875l-1.437-1.438c-.969-.937-.282-2.562 1.062-2.562h2v-3.5a1.5 1.5 0 0 1 1.5-1.5h3c.812 0 1.5.687 1.5 1.5v3.5h2c1.312 0 2 1.625 1.062 2.562l-1.468 1.438h2.906Zm-12.5-2.5 5 5 5-5h-3.5v-5h-3v5H370Zm12.5 8v-4h-4.406l-2.063 2.062a1.452 1.452 0 0 1-2.093 0l-2.063-2.062H367.5v4h15Zm-2.75-2a.74.74 0 0 1 .75-.75.76.76 0 0 1 .75.75.74.74 0 0 1-.75.75.722.722 0 0 1-.75-.75Z" fill="#00A659" />
+      </g>
+      <g clip-path="url(#clip5_1_392)">
+        <rect x="320.615" y="35" width="30.769" height="32" rx="4" fill="#D6EEFB" />
+        <path d="M340.5 50.917a.76.76 0 0 1 .75.75.74.74 0 0 1-.75.75.722.722 0 0 1-.75-.75.74.74 0 0 1 .75-.75Zm1-2.75c1.375 0 2.5 1.125 2.5 2.5v4c0 .28-.25.5-.5.5h-2v3c0 .28-.25.5-.5.5h-10a.494.494 0 0 1-.5-.5v-3h-2a.494.494 0 0 1-.5-.5v-4c0-1.375 1.094-2.5 2.5-2.5v-4.5c0-.532.406-1 .938-1h6.937c.375 0 .781.187 1.063.468l1.593 1.594c.281.281.469.688.469 1.063v2.375Zm-9.5-4v4h8v-2h-1.5a.494.494 0 0 1-.5-.5v-1.5h-6Zm8 13v-2h-8v2h8Zm2.5-3.5v-3c0-.532-.469-1-1-1h-11c-.562 0-1 .468-1 1v3h13Z" fill="#2891F1" />
+      </g>
+    </g>
+  </g>
+  <rect x="14" y="63" width="46.831" height="238.013" rx="6.611" fill="#fff" />
+  <rect x="31.355" y="87.793" width="12.121" height="12.121" rx="6.061" stroke="#D8C7E0" stroke-width="1.102" />
+  <path d="M40.943 98.999c.093.125.226.083.292-.063l.266-.524c.08-.147.053-.356-.04-.461l-7.803-9.533c-.093-.126-.225-.084-.292.063l-.265.524c-.08.147-.053.356.04.46L40.943 99Z" fill="#D8C7E0" />
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M46.782 118.095a9.367 9.367 0 1 1-18.731 0 9.367 9.367 0 0 1 18.73 0Zm-9.366 8.265a8.264 8.264 0 1 0 0-16.529 8.264 8.264 0 0 0 0 16.529Z" fill="#9253C2" />
+  <rect x="30.804" y="111.595" width="13.223" height="13" rx="6.5" fill="#333" />
+  <path d="M40.405 115.328c.086-.086.224-.086.293 0l.5.482c.068.086.068.224 0 .293l-5.166 5.165a.198.198 0 0 1-.293 0l-2.307-2.29c-.069-.086-.069-.223 0-.292l.5-.5c.068-.069.206-.069.292 0l1.653 1.67 4.528-4.528Z" fill="#fff" />
+  <rect x="30.804" y="133.522" width="13.223" height="13.223" rx="6.611" fill="#284489" />
+  <rect x="30.804" y="155.56" width="13.223" height="13.223" rx="6.611" fill="#894B49" />
+  <rect x="30.804" y="177.599" width="13.223" height="13.223" rx="6.611" fill="#563D6C" />
+  <rect x="30.804" y="199.637" width="13.223" height="13.223" rx="6.611" fill="#6CA7BA" />
+  <rect x="30.804" y="223.879" width="13.223" height="13.223" rx="6.611" fill="#305FEC" />
+  <rect x="30.804" y="248.121" width="13.223" height="13.223" rx="6.611" fill="#2A5B50" />
+  <rect x="30.804" y="270.159" width="13.223" height="13.223" rx="6.611" fill="#EF943A" />
+  <defs>
+    <clipPath id="clip0_1_392">
+      <rect x="514" y="28" width="46" height="200" rx="5.743" transform="rotate(90 514 28)" fill="#fff" />
+    </clipPath>
+    <clipPath id="clip1_1_392">
+      <path fill="#fff" transform="translate(476 35)" d="M0 0h32v32H0z" />
+    </clipPath>
+    <clipPath id="clip2_1_392">
+      <path fill="#fff" transform="translate(437 35)" d="M0 0h32v32H0z" />
+    </clipPath>
+    <clipPath id="clip3_1_392">
+      <path fill="#fff" transform="translate(398 35)" d="M0 0h32v32H0z" />
+    </clipPath>
+    <clipPath id="clip4_1_392">
+      <path fill="#fff" transform="translate(359 35)" d="M0 0h32v32H0z" />
+    </clipPath>
+    <clipPath id="clip5_1_392">
+      <path fill="#fff" transform="translate(320 35)" d="M0 0h32v32H0z" />
+    </clipPath>
+    <filter id="filter0_d_1_392" x="68.693" y="51.644" width="447.491" height="566.934" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dx="1.611" dy="1.611" />
+      <feGaussianBlur stdDeviation="6.444" />
+      <feComposite in2="hardAlpha" operator="out" />
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_1_392" />
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_1_392" result="shape" />
+    </filter>
+    <filter id="filter1_d_1_392" x="483.751" y="90" width="47.115" height="207.144" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="3.249" />
+      <feGaussianBlur stdDeviation="1.625" />
+      <feComposite in2="hardAlpha" operator="out" />
+      <feColorMatrix values="0 0 0 0 0.619608 0 0 0 0 0.509804 0 0 0 0 0.705882 0 0 0 0.19 0" />
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_1_392" />
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_1_392" result="shape" />
+    </filter>
+    <filter id="filter2_d_1_392" x="310.751" y="28" width="206.499" height="52.499" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="3.249" />
+      <feGaussianBlur stdDeviation="1.625" />
+      <feComposite in2="hardAlpha" operator="out" />
+      <feColorMatrix values="0 0 0 0 0.619608 0 0 0 0 0.509804 0 0 0 0 0.705882 0 0 0 0.19 0" />
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_1_392" />
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_1_392" result="shape" />
+    </filter>
+    <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+      <use xlink:href="#image0_1_392" transform="matrix(.0004 0 0 .0003 0 0)" />
+    </pattern>
+  </defs>
+</svg>
